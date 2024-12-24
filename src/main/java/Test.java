@@ -30,7 +30,6 @@ public class Test {
         wiseSayings.add(w1);
         wiseSayings.add(w2);
 
-//        wiseSayings.remove(0);
         wiseSayings.remove(w1);
 
         for(WiseSaying ws : wiseSayings) {
